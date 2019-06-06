@@ -1,2 +1,4 @@
 # jenkinstutorial
-merge conflict
+HEAD
+sdfsdfsdfdsfsdf
+
